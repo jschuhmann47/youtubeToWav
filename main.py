@@ -11,7 +11,5 @@ ydl_opts = {
     #'progress_hooks': [my_hook],
 }
 with youtube_dl.YoutubeDL(ydl_opts) as ydl:
-    url=input("Ingresar URL de Youtube para convertir a wav: ")
+    url=input("Insert Youtube URL: ")
     ydl.download([url])
-
-#a
