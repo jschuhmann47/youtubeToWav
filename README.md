@@ -20,4 +20,4 @@ Open your terminal and navigate to the folder where you extracted the files. The
 `python main.py`
 and the program will start.
 <br>
-You'll be asked to insert a Youtube link. Paste it and press enter. The program will download and convert the video to .m4a and then to .wav. The .wav will be in the same folder 
+You'll be asked to insert a Youtube link. Paste it and press enter. The program will download and convert the video to `.m4a` and then to `.wav`. The `.wav` will be in the same folder 
