@@ -12,8 +12,10 @@ You'll need:
 - youtube-dl module
 - ffmpeg-python module
 
-You can install both via pip:
+You can install both via pip:  
+
 `pip install youtube-dl`
+
 `pip install ffmpeg-python`
 
 To download the program, clone it in the directory that you want:
