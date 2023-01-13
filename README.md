@@ -30,7 +30,9 @@ and the program will start.
 
 You'll be asked to insert a Youtube link. Paste it and press enter. The program will download and convert the video to `.m4a` and then to `.wav`. The `.wav` will be in the same folder with the filename being the title of the video plus its ID.
 
-For example, this URL: `https://www.youtube.com/watch?v=sO4vI8P88NM` will output `Thriller [sO4vI8P88NM].wav`
+For example, this URL: `https://www.youtube.com/watch?v=sO4vI8P88NM`
+will output `Thriller [sO4vI8P88NM].wav`
 
-Optionally you can pass the URL directly as a main argument. For example:
+Optionally you can pass the URL directly as a main argument.
+For example:
 `python youtubetowav.py https://www.youtube.com/watch?v=SDk1RA4g8CA`
