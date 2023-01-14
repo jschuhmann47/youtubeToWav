@@ -9,10 +9,19 @@ This tool uses youtube-dl and ffmpeg to easily download a Youtube audio in WAV f
 You'll need:
 
 - Python
+- ffmpeg
 - yt-dlp module
 - ffmpeg-python module
 
-You can install both via pip:  
+On Linux you can download python and ffmpeg from your package manager.
+
+On Windows:
+- [Python link](https://www.python.org/downloads/)
+- [ffmpeg link](https://ffmpeg.org/download.html)
+
+You should also add `ffmpeg` to the PATH. [Here is a guide](https://github.com/ytdl-org/youtube-dl#on-windows-how-should-i-set-up-ffmpeg-and-youtube-dl-where-should-i-put-the-exe-files)
+
+For the modules you can install both via pip (both OS):  
 
 `pip install yt-dlp`
 
