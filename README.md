@@ -2,7 +2,7 @@
 
 ## About
 
-This tool uses youtube-dl and ffmpeg to easily download a Youtube audio in WAV format.  
+This tool uses yt-dlp and ffmpeg to easily download a Youtube audio in WAV format.  
 
 ## Requisites
 
